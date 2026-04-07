@@ -1,4 +1,4 @@
-# Flux Dev Image Generator
+# AI Image Generator using Text Prompts
 
 A modern, beautiful web application for generating AI images using the Flux Dev model via HuggingFace Inference API.
 
