@@ -136,7 +136,7 @@ def serve_static(filename):
 
 if __name__ == '__main__':
     print("\n" + "="*70)
-    print(" 🎨 FLUX DEV IMAGE GENERATOR SERVER")
+    print(" AI Image Generator using Text Prompts")
     print("="*70)
     print(f" Server running at: http://localhost:5000")
     print(f" Model: black-forest-labs/FLUX.1-dev")
